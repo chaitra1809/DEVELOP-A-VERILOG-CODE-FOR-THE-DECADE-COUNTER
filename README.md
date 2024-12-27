@@ -4,6 +4,11 @@ A decade counter, also known as a mod-10 counter, it is a digital circuit that c
 
 The design of a decade counter  typically involves flip-flops, which are basic memory elements in digital electronics.
 
+
+# Design & Truth Table:
+![image](https://github.com/user-attachments/assets/28bf26bf-0fa0-4769-8fb8-3d2d8f8a272d)
+
+
 # VERILOG CODE:
 
 
@@ -160,6 +165,11 @@ q[2]: set_location_assignment PIN_A9 -to LEDR[1]
 q[1]: set_location_assignment PIN_A10 -to LEDR[2] 
 
 q[0]: set_location_assignment PIN_B10 -to LEDR[3]
+
+
+# Result :
+![image](https://github.com/user-attachments/assets/dc1d1113-4aad-4cde-b9a9-445d8007e36b)
+
 
 
 # CONCLUSION:
